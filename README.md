@@ -15,9 +15,6 @@
 - 😄 Pronouns: **He/Him**
 
 <p align="left">
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://github.com/sachinnegi9936167436?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&logo=github&color=007ec6" alt="Followers"/>
   </a>
